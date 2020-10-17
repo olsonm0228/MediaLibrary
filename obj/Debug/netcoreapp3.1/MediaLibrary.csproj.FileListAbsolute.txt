@@ -1,0 +1,17 @@
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.exe
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.deps.json
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.runtimeconfig.json
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.dll
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.pdb
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.dll
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\SchoolStuff\C#Database\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csproj.CopyComplete
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.dll
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.pdb
+C:\SchoolStuff\C#Database\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.genruntimeconfig.cache

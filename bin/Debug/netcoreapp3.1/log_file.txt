@@ -1,0 +1,79 @@
+2020-10-05 08:23:26.1328|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:23:26.1881|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:33:57.5117|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:33:57.5707|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:36:29.4804|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:36:29.5600|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:38:00.8461|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:38:00.9464|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:39:00.8336|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:39:00.8938|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:41:59.6287|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:41:59.7155|INFO|MediaLibrary.FileScrubber|File scrub started
+2020-10-05 08:41:59.7283|ERROR|MediaLibrary.FileScrubber|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\movies.csv'.
+2020-10-05 08:41:59.7417|INFO|MediaLibrary.Program|
+2020-10-05 08:41:59.7608|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:43:27.9577|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:43:28.0167|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-05 08:43:28.0239|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-05 08:43:28.0377|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:44:50.5890|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:44:50.6555|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-05 08:44:50.6643|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-05 08:44:50.6789|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:45:28.7494|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:45:28.8396|INFO|MediaLibrary.FileScrubber|File scrub started
+2020-10-05 08:45:28.9309|INFO|MediaLibrary.FileScrubber|File scrub ended
+2020-10-05 08:45:28.9452|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-05 08:45:28.9681|INFO|MediaLibrary.Program|Program ended
+2020-10-11 16:42:49.3413|INFO|MediaLibrary.Program|Program started
+2020-10-11 16:42:49.3848|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 16:42:51.9972|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 16:43:06.9287|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 16:43:06.9287|INFO|MediaLibrary.Program|Program ended
+2020-10-11 16:44:23.8592|INFO|MediaLibrary.Program|Program started
+2020-10-11 16:44:23.8984|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 16:44:29.1078|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 16:44:33.7064|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 16:44:33.7064|INFO|MediaLibrary.Program|Program ended
+2020-10-11 16:55:33.5871|INFO|MediaLibrary.Program|Program started
+2020-10-11 16:55:33.6270|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 16:55:35.0967|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 16:55:40.1035|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 16:55:40.1035|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:02:17.3777|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:02:17.4177|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 17:02:19.7963|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:04:18.5061|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:04:18.5061|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:06:36.2363|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:06:36.2766|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 17:06:37.8152|INFO|MediaLibrary.Program|User choice: "1"
+2020-10-11 17:07:07.4046|ERROR|MediaLibrary.MovieFile|Sequence contains no elements
+2020-10-11 17:07:14.8235|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:07:16.0391|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:07:16.0391|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:09:25.2117|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:09:25.2517|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.csv'.
+2020-10-11 17:09:26.9486|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:09:31.2474|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:09:31.2545|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:13:27.0138|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:13:27.0530|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 17:13:30.9302|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:13:36.4543|INFO|MediaLibrary.Program|User choice: "1"
+2020-10-11 17:13:55.0467|ERROR|MediaLibrary.MovieFile|Sequence contains no elements
+2020-10-11 17:14:03.6308|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:14:55.8050|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:14:55.8137|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:15:42.3077|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:15:42.3487|ERROR|MediaLibrary.MovieFile|Could not find file 'C:\SchoolStuff\C#Database\MediaLibrary\moives.scrubbed.csv'.
+2020-10-11 17:16:13.3286|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:16:14.2494|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-11 17:16:34.4166|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:16:34.4283|INFO|MediaLibrary.Program|Program ended
+2020-10-11 17:16:43.8824|INFO|MediaLibrary.Program|Program started
+2020-10-11 17:16:43.9300|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-11 17:16:45.8232|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-11 17:17:08.7584|INFO|MediaLibrary.Program|User choice: ""
+2020-10-11 17:17:08.7584|INFO|MediaLibrary.Program|Program ended
