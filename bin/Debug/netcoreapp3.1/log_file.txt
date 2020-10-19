@@ -77,3 +77,22 @@
 2020-10-11 17:16:45.8232|INFO|MediaLibrary.Program|User choice: "2"
 2020-10-11 17:17:08.7584|INFO|MediaLibrary.Program|User choice: ""
 2020-10-11 17:17:08.7584|INFO|MediaLibrary.Program|Program ended
+2020-10-16 20:13:01.7590|INFO|MediaLibrary.Program|Program started
+2020-10-16 20:13:01.8954|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-16 20:13:13.0968|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-19 08:55:06.8681|INFO|MediaLibrary.Program|Program started
+2020-10-19 08:55:06.9326|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-19 08:55:12.3168|INFO|MediaLibrary.Program|User choice: "3"
+2020-10-19 08:55:14.1791|INFO|MediaLibrary.Program|Program ended
+2020-10-19 08:57:14.6814|INFO|MediaLibrary.Program|Program started
+2020-10-19 08:57:14.7324|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-19 08:57:17.2308|INFO|MediaLibrary.Program|User choice: "3"
+2020-10-19 08:57:19.5676|INFO|MediaLibrary.Program|Program ended
+2020-10-19 08:57:45.6761|INFO|MediaLibrary.Program|Program started
+2020-10-19 08:57:45.7254|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-19 08:57:47.1494|INFO|MediaLibrary.Program|User choice: "3"
+2020-10-19 08:57:48.9599|INFO|MediaLibrary.Program|Program ended
+2020-10-19 08:57:52.9398|INFO|MediaLibrary.Program|Program started
+2020-10-19 08:57:52.9887|ERROR|MediaLibrary.MovieFile|String 'unassigned' was not recognized as a valid TimeSpan.
+2020-10-19 08:57:54.1698|INFO|MediaLibrary.Program|User choice: "3"
+2020-10-19 08:57:55.9580|INFO|MediaLibrary.Program|Program ended

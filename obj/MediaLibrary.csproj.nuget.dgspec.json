@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj": {}
+    "C:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj": {}
   },
   "projects": {
-    "c:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj": {
+    "C:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
+        "projectUniqueName": "C:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
         "projectName": "MediaLibrary",
-        "projectPath": "c:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
+        "projectPath": "C:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
         "packagesPath": "C:\\Users\\feoni\\.nuget\\packages\\",
-        "outputPath": "c:\\SchoolStuff\\testing\\MediaLibrary\\obj\\",
+        "outputPath": "C:\\SchoolStuff\\testing\\MediaLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\feoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

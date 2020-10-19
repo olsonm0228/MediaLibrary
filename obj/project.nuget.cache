@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sDRQzQYl0QXhRkbX9bb6szGGh4FstH83sep+bWMwICd6P9e3Hf4uTLVcFu5PDJEkBLNVl8CWq2PNYHH2pUBig==",
+  "dgSpecHash": "zI816JDAsO8mlCCDbL7y4u5pZHvrcdoMuMv1df0KEGh+3OvKOr1EkC3dpb0yzrBQ4h4FrmJoIl+aZnaJ46V12g==",
   "success": true,
-  "projectFilePath": "c:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
+  "projectFilePath": "C:\\SchoolStuff\\testing\\MediaLibrary\\MediaLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feoni\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\feoni\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
